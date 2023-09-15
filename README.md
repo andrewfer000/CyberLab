@@ -5,7 +5,9 @@ A CyberSecurity and I.T. Learning Lab Framework utilising Flask, Python, Libvirt
 * User login and authentcation
   
 * Labs are defined by code (JSON) which specifiy what VM disks to use, how many VMs of each, steps and stages, text questions, as well as deliverables and completion conditions. Labs are orginised in "courses"
-  
+
+* Multiple checkers in python such as a "Linux file checker" or "Windows file checker" defined as Python using WinRM, SSH, PowerShell, and Python Scipts to check lab completion. 
+
 * When a user starts a lab. They are given access to an interface with instructions and each VM in tabs. The GUI is powered by the Guacamole API
   
 * Multiple Professors, Courses, and Students can use the system. Students can be enroled in courses by professors and students and professors can view progress 

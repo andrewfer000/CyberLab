@@ -23,6 +23,10 @@ A CyberSecurity and I.T. Learning Lab Framework utilising Flask, Python, Libvirt
 ## Administrator Requirements
 * Comprehensive understanding of Linux and Libvirt
 * Baisc understanding and expreince with Apache Guacamole and Apache HTTPD
-* Root privlages and permission to use a dedicated system and IP address. 
+* Root privlages and permission to use a dedicated system and IP address.
+
+## Other Details
+* License: Apache 2.0 (Unless otherwise stated in source files)
+* Please send me a message for any secuirty issues. 
 
 # No Code will be posted here until a working prototype is ready. Please be patient.

@@ -18,7 +18,7 @@ A CyberSecurity and I.T. Learning Lab Framework utilising Flask, Python, Libvirt
 * Server or reverse proxy with a public IP address for users to access the app
 * Python 3.10+, Apache Guacamole, Libvirtd, QEMU with KVM acceleration
 * 8 CPU cores with at least 16GB RAM per lab (4 VMs average)
-* Network capible of many Quacamole users.
+* Network capible of many Guacamole users.
 
 ## Administrator Requirements
 * Comprehensive understanding of Linux and Libvirt

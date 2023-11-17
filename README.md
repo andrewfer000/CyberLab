@@ -75,8 +75,8 @@ CyberLab automates the management of Apache Guacamole and Libvirt QEMU Virtual M
 
 ## Install
 
-Frontend-  Follow the installation instructions here (not available)
-Daemon- Follow the installation instructtions here https://github.com/andrewfer000/CyberLab-Daemon
+* Frontend-  Follow the installation instructions here (not available)
+* Daemon- Follow the installation instructtions here https://github.com/andrewfer000/CyberLab-Daemon
 
 
 ## Downloading the TestCourse
@@ -107,6 +107,8 @@ Labs are part of courses. Courses contain vm_images directory (virtual hard driv
 #### Destory the session
 ![image](https://github.com/andrewfer000/CyberLab-Concept/assets/9620913/2dec8b5f-995c-474a-b507-ddf138914a00)
 
+#### Sneek peek of when the Frontend and backend work toghether. CyberLab Simulator being accessed on a Smartphone!
+![image](https://github.com/andrewfer000/CyberLab-Daemon/assets/9620913/fe556fd3-2a85-427c-9d06-b84a2e08334a)
 
 ## Other Details
 * License: MPL 2.0 (Unless otherwise stated in source files)
